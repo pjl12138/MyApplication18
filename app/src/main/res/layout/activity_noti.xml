@@ -9,5 +9,8 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.administrator.myapplication.NotiActivity">
-
+<TextView
+    android:text="好消息"
+    android:layout_width="match_parent"
+    android:layout_height="100dp" />
 </RelativeLayout>
